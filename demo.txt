@@ -1,1 +1,2 @@
-welocme to  git`
+welcome to git
+welcome to devops
