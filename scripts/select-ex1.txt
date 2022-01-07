@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+select user in "mani" "shanker" "shiva" "sid"
+do 
+	echo "The selected user is: $user"
+	break;
+done
